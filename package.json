@@ -1,0 +1,23 @@
+{
+  "name": "juqebilant-trafsdin",
+  "version": "1.0.0",
+  "description": "Basic demonstration app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jackuessx/juqebilant-trafsdin.git"
+  },
+  "dependencies": {
+    "ubiqubfgitous-octado-eureka": "1.0.0",
+    "stuawerdy-barnacsle": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackuessx/juqebilant-trafsdin/issues"
+  },
+  "homepage": "https://github.com/jackuessx/juqebilant-trafsdin#readme"
+}
